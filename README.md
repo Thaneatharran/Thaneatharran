@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Thaneatharran @ Thanen</h1>
 <h3 align="center">A passionate Civil Engineer and pursuing Master In Engineering Mathematics</h3>
 
+- 🌱 I’m currently learning **Master In Engineering Mathematics**
+
 - 📫 How to reach me **thanea27sekaran@gmail.com**
+
+- 📄 Know about my experiences [2 Years Working Experiences as Civil & Structural Consultant](2 Years Working Experiences as Civil & Structural Consultant)
+
+- ⚡ Fun fact **I Think I Smart & Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
